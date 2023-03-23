@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">chatapp</string>
+    <string name="register">Register</string>
+    <string name="userid">userID</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="registers">Register</string>
+    <string name="log_in">log in</string>
+    <string name="already_have_an_accvount">already have an accvount?</string>
+    <string name="don_t_have_an_account">don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="loginbutton">Loginnuttpn</string>
+    <string name="forget_password">forget password?</string>
+    <string name="username_id">username_id</string>
+    <string name="bhavya">bhavya</string>
+    <string name="message">Type a message</string>
+    <string name="send">send</string>
+</resources>
